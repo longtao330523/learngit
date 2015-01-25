@@ -5,3 +5,5 @@
 	
 	shadiao
 	buyaozheyanghaoma
+	danteng
+	caoge
